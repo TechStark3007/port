@@ -1,0 +1,12 @@
+{
+  "name": "railway-server",
+  "version": "1.0.0",
+  "description": "Simple Express Server on Railway",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
